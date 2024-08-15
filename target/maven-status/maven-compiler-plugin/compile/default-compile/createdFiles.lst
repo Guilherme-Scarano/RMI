@@ -1,0 +1,4 @@
+br\edu\ifsuldeminas\mch\sd\rmi\server\Server.class
+br\edu\ifsuldeminas\mch\sd\rmi\client\Client.class
+br\edu\ifsuldeminas\mch\sd\rmi\remote\Operations.class
+br\edu\ifsuldeminas\mch\sd\rmi\server\Calculator.class
